@@ -1,4 +1,4 @@
-* Exercism Python Track
+* Exercism Assembly MIPS Track
 
 This repository contains solved exercises from the Assembly MIPS track.
 
